@@ -1,0 +1,19 @@
+---
+backglassVPSId: "7lXEP0nJ2N"
+backglassChecksum: "C5A1FE03CFEC6D1BBB503143CA6A139D"
+backglassNotes: "Version 1.0.0"
+fps: 30
+romChecksum: "EB87B685EC769863230E4AC0E6F54A4F"
+romUrlOverride: "https://pinballnirvana.com/forums/resources/cueball.1698/"
+romVersionOverride: "cueball"
+romNotes: "Download - cueball.zip"
+tableVPSId: "4pNRdUS2"
+tagline: "Lets rack em up!"
+testers:
+  - "Blalze"
+vpxVPSId: "Usnyu--CEf"
+vpxChecksum: "0570993CFC99193DEF8D9BC1CFDE7731"
+tableNotes: "Version 1.2.4"
+enabled: false
+applyFixes:
+  - "bass"

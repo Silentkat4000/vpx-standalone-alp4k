@@ -1,0 +1,19 @@
+---
+backglassVPSId: "pvzKgM_DOn"
+backglassChecksum: "722BFB14793946358ACECA088355AE1C"
+backglassNotes: "Version 1.0.0"
+fps: 27
+romChecksum: "646BC48268A5F9559338CC60613F6796"
+romUrlOverride: "https://pinballnirvana.com/forums/resources/cactjack.1644/"
+romVersionOverride: "cactjack"
+romNotes: "Download - cactjack.zip"
+tableVPSId: "QDWTicJY"
+tagline: "You ready for a good old time?"
+testers:
+  - "Blalze"
+vpxVPSId: "d53_5NH4ne"
+vpxChecksum: "5C6B6F94BA0B747DAC68E0C046A68E65"
+tableNotes: "Version 2.0.2"
+enabled: false
+applyFixes:
+  - "bass"
