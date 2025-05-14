@@ -1,0 +1,4 @@
+ID,Active,Descript,Trigger,ScreenNum,PlayList,PlayFile,Volume,Priority,Length,Counter,RestSeconds,Loop,Defaults
+1,1,Startup,D0,0,topper,"Video-0x0004 - stern attract.mp4",,,,,,SetBG,0
+3,1,DMD,D0,1,videobackground,Video-0x008C.mp4,,,,,,SetBG,0
+5,1,BackGlass,D0,2,backglass,"PUPDMD on BG.jpg",,,,,,SetBG,0

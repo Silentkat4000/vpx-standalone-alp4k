@@ -591,6 +591,7 @@ Links to these products on Amazon are through affiliate links.
 | [Mousin' Around! (Bally 1989)](external/vpx-mousin) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :x: | 32 |
 | [Mr. and Mrs. Pac-Man (Bally 1982)](external/vpx-mrandmrspacman) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :x: | 45 |
 | [Mr. Black - JP (Taito do Brasil 1984)](external/vpx-jpmrblack) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :x: | 60 |
+| [Munsters (Original 2020)](external/vpx-munsters) | :white_check_mark: | :white_check_mark: | :x: | :x: | :x: | :white_check_mark: | 45 |
 | [Mustang (Bullitt LE) (Stern 2014)](external/vpx-mustangbullitt) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 37 |
 | [Mustang (Stern 2014)](external/vpx-mustang) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 33 |
 | [Mystery Castle (Alvin G 1993)](external/vpx-mysterycastle) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 45 |
