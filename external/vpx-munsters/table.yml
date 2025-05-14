@@ -1,7 +1,7 @@
 ---
 backglassAuthorsOverride:
   - ""
-fps: 50
+fps: 45
 pupChecksum: "5E16A5F14E2618A5BE49D5FE9E7F2D42"
 pupFileUrl: >-
   https://vpuniverse.com/files/file/10068-munsters-original-2020-105vpx/
@@ -10,9 +10,10 @@ pupVersion: "mmunsters"
 tableVPSId: "RXSK4eem"
 tableNotes: "Download VPX and PUP from same link"
 tagline: >-
-"It doesn't matter. But what does matter is the size of your heart and the strength of your character."
+  "It doesn't matter. But what does matter is the size
+  of your heart and the strength of your character."
 testers:
   - "Silentkat"
 vpxchecksum: "7B32AB678C87BDA65C17690AC49677DF"
 vpxVPSId: "FhAokXrn"
-
+enabled: false
