@@ -9,7 +9,7 @@ pupRequired: true
 pupVersion: "mmunsters"
 tableVPSId: "RXSK4eem"
 tableNotes: "Download VPX and PUP from same link"
-  "It doesn't matter. But what does matter is the size of your heart and the strength of your character." - Herman Munster
+  "It doesn't matter. But what does matter is the size of your heart and the strength of your character."
 testers:
   - "Silentkat"
 vpxchecksum: "7B32AB678C87BDA65C17690AC49677DF"
