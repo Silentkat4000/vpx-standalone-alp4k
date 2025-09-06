@@ -1,0 +1,13 @@
+---
+backglassChecksum: "ae760762d09ff2ab98b0543369175475"
+backglassNotes: "included in table download"
+fps: 60
+tableVPSId: "hUDXf3_Im8"
+tagline: "What comes around is all around"
+testers:
+  - "Silentkat"
+vpxVPSId: "W6YLM398ZC"
+vpxChecksum: "333f3f58be52a58b5700fa633bae1371"
+tableNotes: "Download version 1.0.0"
+applyFixes:
+  - "bass"
